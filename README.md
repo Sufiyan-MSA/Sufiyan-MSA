@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mohammed Sufiyan Ahmed</h1>
-<p>🚀 Exploring Full Stack, Cloud, and DevOps—One Innovation at a Time!  
+<p>🚀 Exploring Full Stack,AI-ML, Cloud, and DevOps—One Innovation at a Time!  
   
 My passion lies in Full-Stack Development (MERN), Cloud Computing, DevOps, and exploring AI, Blockchain, and Web3 to build scalable and innovative tech solutions.  I thrive on building, learning, and growing in the ever-evolving landscapes of Full Stack Development, DevOps, Cloud Computing, AI, and Blockchain. My passion lies in transforming complex ideas into scalable, user-friendly solutions.  
 
@@ -16,7 +16,9 @@ As a Full Stack Developer, I have designed and developed robust, user-centric ap
 
 ✅ Airbnb-style Travel Platform – A dynamic listing and booking system.   
 
-Beyond development, I dive deep into Cloud & DevOps, working with AWS, Docker, and Kubernetes to build scalable and efficient systems. At the same time, I’m exploring AI and Blockchain, fine-tuning models, strengthening smart contract security, and enhancing Web3 applications.  💡 Always open to discussions on tech, collaborations, and new opportunities. Let’s connect and innovate together!</p>
+Beyond development, I dive deep into Cloud & DevOps, working with AWS, Docker, and Kubernetes to build scalable and efficient systems. At the same time, I’m exploring AI and Blockchain, fine-tuning models, strengthening smart contract security, and enhancing Web3 applications.  
+
+💡 Always open to discussions on tech, collaborations, and new opportunities. Let’s connect and innovate together!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
