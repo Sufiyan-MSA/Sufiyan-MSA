@@ -11,7 +11,7 @@ As a Full Stack Developer, I have designed and developed robust, user-centric ap
 - ✅ **Airbnb-style Platform** – Dynamic booking and listing web app.
 
 
-Beyond development, I dive deep into Cloud & DevOps, working with AWS, Docker, and Kubernetes to build scalable and efficient systems. At the same time, I’m exploring AI and Blockchain, fine-tuning models, strengthening smart contract security, and enhancing Web3 applications.  
+Beyond development, I dive deep into AI-ML, Cloud & DevOps, working with AWS, Docker, and Kubernetes to build scalable and efficient systems. At the same time, I’m exploring Web3 and Blockchain, fine-tuning models, strengthening smart contract security, and enhancing Web3 applications.  
 
 💡 Always open to discussions on tech, collaborations, and new opportunities. Let’s connect and innovate together!</p>
 <h2>🚀 Languages and Tools I Use</h2>
