@@ -1,20 +1,15 @@
 <h1>Hi 👋, I'm Mohammed Sufiyan Ahmed</h1>
-<p>🚀 Exploring Full Stack,AI-ML, Cloud, and DevOps—One Innovation at a Time!  
-  
-My passion lies in Full-Stack Development (MERN), Cloud Computing, DevOps, and exploring AI, Blockchain, and Web3 to build scalable and innovative tech solutions.  I thrive on building, learning, and growing in the ever-evolving landscapes of Full Stack Development, DevOps, Cloud Computing, AI, and Blockchain. My passion lies in transforming complex ideas into scalable, user-friendly solutions.  
+<p>🚀 I’m a Full Stack Developer passionate about building scalable solutions using MERN, Cloud, DevOps, AI/ML, and Web3. I thrive on innovation, learning, and creating impactful software.
 
 As a Full Stack Developer, I have designed and developed robust, user-centric applications across various domains. Some of my key projects include:  
-✅ ShipCompare – A logistics comparison platform that simplifies courier service selection using my custom API. 
+### 🔧 Projects
+- ✅ **ShipCompare** – Courier comparison platform using a custom API.
+- ✅ **AI Pokédex Avatar Generator** – Real-life avatar generator using AI.
+- ✅ **Risk Assessment ML** – Geospatial ML for personalized risk scoring.
+- ✅ **GitHub-like Version Control** – Self-hosted Git platform.
+- ✅ **Paytm Clone** – Secure digital payment interface.
+- ✅ **Airbnb-style Platform** – Dynamic booking and listing web app.
 
-✅ Real Life AI Pokédex Avatar Generator 
-
-✅ Personalized Risk Assessment Using Geospatial Machine Learning
-
-✅ GitHub-like Version Control – A self-hosted repository management system. 
-
-✅ Digital Payment Interface (Paytm Clone) – Secure transaction handling and wallet integration.
-
-✅ Airbnb-style Travel Platform – A dynamic listing and booking system.   
 
 Beyond development, I dive deep into Cloud & DevOps, working with AWS, Docker, and Kubernetes to build scalable and efficient systems. At the same time, I’m exploring AI and Blockchain, fine-tuning models, strengthening smart contract security, and enhancing Web3 applications.  
 
