@@ -2,7 +2,7 @@
 <p>🚀 I’m a Full Stack Developer passionate about building scalable solutions using MERN, Cloud, DevOps, AI/ML, and Web3. I thrive on innovation, learning, and creating impactful software.
 
 As a Full Stack Developer, I have designed and developed robust, user-centric applications across various domains. Some of my key projects include:  
-### 🔧 Projects
+### Projects
 - **ShipCompare** – Courier comparison platform using a custom API.
 - **Risk Assessment ML** – Geospatial ML for personalized risk scoring.
 - **GitHub-like Version Control** – Self-hosted Git platform.
