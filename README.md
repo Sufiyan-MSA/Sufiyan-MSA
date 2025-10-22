@@ -3,12 +3,11 @@
 
 As a Full Stack Developer, I have designed and developed robust, user-centric applications across various domains. Some of my key projects include:  
 ### 🔧 Projects
-- ✅ **ShipCompare** – Courier comparison platform using a custom API.
-- ✅ **AI Pokédex Avatar Generator** – Real-life avatar generator using AI.
-- ✅ **Risk Assessment ML** – Geospatial ML for personalized risk scoring.
-- ✅ **GitHub-like Version Control** – Self-hosted Git platform.
-- ✅ **Paytm Clone** – Secure digital payment interface.
-- ✅ **Airbnb-style Platform** – Dynamic booking and listing web app.
+- **ShipCompare** – Courier comparison platform using a custom API.
+- **Risk Assessment ML** – Geospatial ML for personalized risk scoring.
+- **GitHub-like Version Control** – Self-hosted Git platform.
+- **Paytm Clone** – Secure digital payment interface.
+- **Airbnb-style Platform** – Dynamic booking and listing web app.
 
 
 Beyond development, I dive deep into AI-ML, Cloud & DevOps, working with AWS, Docker, and Kubernetes to build scalable and efficient systems. At the same time, I’m exploring Web3 and Blockchain, fine-tuning models, strengthening smart contract security, and enhancing Web3 applications.  
