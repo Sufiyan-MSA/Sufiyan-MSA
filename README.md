@@ -1,7 +1,6 @@
-
 # 👋 Hi, I'm Mohammed Sufiyan Ahmed
 
-![Typing SVG](https://readme-typing-svg.demolab.com?size=28\&duration=3000\&pause=800\&color=1E90FF\&center=false\&vCenter=false\&width=600\&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;AI+%2F+ML+%2F+Web3+Explorer;Hacktoberfest+2025+Contributor)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=800&color=1E90FF&center=false&vCenter=false&width=600&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;AI+%2F+ML+%2F+Web3+Explorer;Hacktoberfest+2025+Contributor)
 
 ### 🎉 Hacktoberfest 2025 — Level 4/4
 
@@ -11,20 +10,21 @@
 
 <img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
 
-I work across full stack development, cloud infrastructure, automation, and applied AI.
+I work across full stack development, cloud infrastructure, automation, and applied AI.  
 I enjoy building systems that scale and experimenting with ideas in software, machine learning, and blockchain.
 
-I’ve built platforms, automation tools, ML pipelines, workflow engines, and distributed systems. I'm active in open-source and enjoy contributing whenever I get the chance.
+I’ve built platforms, automation tools, ML pipelines, workflow engines, and distributed systems.  
+I'm active in open-source and contribute whenever I can.
 
 ---
 
 ## 🛠️ What I Work On
 
-* Web apps and product engineering using MERN and Java/TS
-* Scalable backend systems with Node, Express, SQL, libSQL
-* Cloud and DevOps using AWS, Docker, Kubernetes, CI/CD
-* AI, ML, LLM fine-tuning, and model integration
-* Automation systems, agents, and workflow engines
+* Web apps and product engineering using MERN and Java/TS  
+* Scalable backend systems with Node, Express, SQL, libSQL  
+* Cloud and DevOps using AWS, Docker, Kubernetes, CI/CD  
+* AI, ML, LLM fine-tuning, and model integration  
+* Automation systems, agents, and workflow engines  
 
 ---
 
@@ -91,4 +91,3 @@ I’ve built platforms, automation tools, ML pipelines, workflow engines, and di
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
-
