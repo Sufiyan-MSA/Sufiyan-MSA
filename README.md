@@ -4,7 +4,7 @@
 
 ### 🎉 Hacktoberfest 2025 — Level 4/4
 
-[![Holopin Badge](https://holopin.me/sufiyanmsa)](https://holopin.io/@sufiyanmsa)
+<!-- [![Holopin Badge](https://holopin.me/sufiyanmsa)](https://holopin.io/@sufiyanmsa) -->
 
 ---
 
