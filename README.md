@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammed Sufiyan Ahmed
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=800&color=1E90FF&left=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+ML+Engineering;Generative+AI+%26+LLMs;Cloud+%26+DevOps;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=800&color=1E90FF&left=true&vCenter=true&width=650&lines=Full+Stack+Developer;Applied+AI+%26+ML;Generative+AI+%26+LLMs;Cloud+%26+DevOps;Open+Source+Contributor" />
 </p>
 
 ### Hacktoberfest 2025 — Level 4/4
