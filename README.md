@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=800&color=1E90FF&left=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Generative+AI+%26+LLMs;Cloud+%26+DevOps;Open+Source+Contributor" />
 </p>
 
-### Hacktoberfest 2025 — Level 4/4
+### Hacktoberfest 2025 — PR 4/4
 
 <a href="https://holopin.io/@sufiyanmsa">
   <img width="1187" height="382" alt="holopin-screenshot" src="https://github.com/user-attachments/assets/cf9bd239-a53d-4fd9-8e55-40a2a0dc1a69" />
