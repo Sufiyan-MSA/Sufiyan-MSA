@@ -4,13 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&pause=800&color=1E90FF&left=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Generative+AI+%26+LLMs;Cloud+%26+DevOps;Open+Source+Contributor" />
 </p>
 
-
-
 ---
 
 <table width="100%">
 <tr>
-
 <td width="52%" valign="middle">
 
 ## 👨‍💻 About Me
@@ -24,22 +21,13 @@ I've built AI platforms, multi-agent systems, RAG applications, workflow engines
 I'm active in open source and contribute whenever I can.
 
 </td>
-
 <td width="48%" align="center" valign="middle">
 
-<img
-src="https://raw.githubusercontent.com/Sufiyan-MSA/Sufiyan-MSA/main/Sufiyan_gif.gif"
-alt="Mohammed Sufiyan Ahmed Coding Animation"
-width="300"
-/>
+<img src="https://raw.githubusercontent.com/Sufiyan-MSA/Sufiyan-MSA/main/Sufiyan_gif.gif" alt="Mohammed Sufiyan Ahmed Coding Animation" width="300" />
 
 </td>
-
 </tr>
 </table>
-
----
-
 
 ---
 
@@ -55,7 +43,7 @@ width="300"
 <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32"/><br><sub>Java</sub></td>
 <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32"/><br><sub>Python</sub></td>
 <td align="center" width="50"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32"/><br><sub>JavaScript</sub></td>
-<td align="center" width="50"><img src="https://api.iconify.design/carbon:sql.svg?color=%230366d6" width="32" height="32"/><br><sub>SQL</sub></td>
+<td align="center" width="50"><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/database.svg" width="32" height="32"/><br><sub>SQL</sub></td>
 </tr></table>
 
 </td>
@@ -64,10 +52,10 @@ width="300"
 **<font color="#28a745">Generative AI</font>**
 
 <table align="center"><tr>
-<td align="center" width="55"><img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310a37f" width="32" height="32"/><br><sub>LLM APIs</sub></td>
-<td align="center" width="55"><img src="https://api.iconify.design/simple-icons:langchain.svg?color=%231C3C3C" width="32" height="32"/><br><sub>LangChain</sub></td>
-<td align="center" width="55"><img src="https://api.iconify.design/lucide:workflow.svg?color=%2328a745" width="32" height="32"/><br><sub>LangGraph</sub></td>
-<td align="center" width="55"><img src="https://api.iconify.design/lucide:bot.svg?color=%2328a745" width="32" height="32"/><br><sub>RAG & Agents</sub></td>
+<td align="center" width="55"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32"/><br><sub>LLM APIs</sub></td>
+<td align="center" width="55"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="32" height="32"/><br><sub>LangChain</sub></td>
+<td align="center" width="55"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="32" height="32"/><br><sub>LangGraph</sub></td>
+<td align="center" width="55"><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/robot.svg" width="32" height="32"/><br><sub>RAG & Agents</sub></td>
 </tr></table>
 
 </td>
@@ -121,7 +109,7 @@ width="300"
 <table align="center"><tr>
 <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32"/><br><sub>Docker</sub></td>
 <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="32" height="32"/><br><sub>Kubernetes</sub></td>
-<td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32"/><br><sub>AWS</sub></td>
+<td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="32" height="32"/><br><sub>AWS</sub></td>
 <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" height="32"/><br><sub>Terraform</sub></td>
 <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="32" height="32"/><br><sub>GitHub Actions</sub></td>
 <td align="center" width="55"><img src="https://cdn.simpleicons.org/argo/EF7B4D" width="32" height="32"/><br><sub>Argo CD<br>(GitOps)</sub></td>
@@ -134,7 +122,7 @@ width="300"
 
 <table align="center"><tr>
 <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="32" height="32"/><br><sub>Redis</sub></td>
-<td align="center" width="55"><img src="https://cdn.simpleicons.org/redis/DC382D" width="32" height="32"/><br><sub>RQ</sub></td>
+<td align="center" width="55"><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/solid/gears.svg" width="32" height="32"/><br><sub>RQ</sub></td>
 <td align="center" width="55"><img src="https://cdn.simpleicons.org/ollama/000000" width="32" height="32"/><br><sub>Ollama</sub></td>
 <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32"/><br><sub>Git</sub></td>
 <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32"/><br><sub>Linux</sub></td>
@@ -145,23 +133,21 @@ width="300"
 </table>
 
 ---
+
 ## 🌐 Connect With Me
 
 <table align="center">
 <tr>
-
 <td>
 <a href="https://www.linkedin.com/in/mohammed-sufiyan-msa/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
-
 <td>
 <a href="https://sufiyanai.in">
 <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge"/>
 </a>
 </td>
-
 </tr>
 </table>
 
@@ -170,4 +156,3 @@ width="300"
 <p align="center">
   Let's connect and build something amazing together! 🚀
 </p>
-
