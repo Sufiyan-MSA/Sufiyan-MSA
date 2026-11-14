@@ -28,8 +28,8 @@ I'm active in open source and contribute whenever I can.
 <td width="48%" align="center" valign="middle">
 
 <img
-src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
-alt="Coding"
+src="https://raw.githubusercontent.com/Sufiyan-MSA/Sufiyan-MSA/main/Sufiyan_gif.gif"
+alt="Mohammed Sufiyan Ahmed Coding Animation"
 width="420"
 />
 
