@@ -30,7 +30,7 @@ I'm active in open source and contribute whenever I can.
 <img
 src="https://raw.githubusercontent.com/Sufiyan-MSA/Sufiyan-MSA/main/Sufiyan_gif.gif"
 alt="Mohammed Sufiyan Ahmed Coding Animation"
-width="420"
+width="300"
 />
 
 </td>
